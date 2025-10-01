@@ -1,2 +1,2 @@
 # Primer_repo
-mi nombre es Danna Arredondo, creadora de este repositorio 
+mi nombre es Danna Arredondo, creadora de este **repositorio** 
